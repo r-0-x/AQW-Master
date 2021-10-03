@@ -5,4 +5,4 @@ Contact: [here](http://forum.ragezone.com/members/550384.html) or [here](https:/
 
 Always use throwaway accounts only.
 
-![AQW Logger](https://github.com/r0x/AQW-Logger/blob/master/images/preview.png?raw=true)
+![AQW Logger](https://github.com/r-0-x/AQW-Logger/blob/master/images/preview.png?raw=true)
