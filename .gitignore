@@ -1,3 +1,11 @@
+# AS3
+*.as
+*.fla
+
+# IDE
+.vscode
+.settings
+
 # Logs
 logs
 *.log
