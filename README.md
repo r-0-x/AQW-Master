@@ -15,9 +15,7 @@ Simple AQWorlds packet logger and variable scanner for educational research, rev
 
 ---
 
-You don't need any patch or special file to make Flash work again, should work out-the-box. Tested on Arch Linux and Windows 10.
-
-Mac version coming soon™.
+You don't need any patch or special file to make Flash work again, should work out-the-box. Tested on Arch Linux and Windows 10. Mac version coming soon™.
 
 **Recommended to use throwaway accounts.**
 
