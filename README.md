@@ -36,4 +36,4 @@ Interface and game can get laggy if you captured too many packets and didn't wip
 
 ![Packet logger](https://github.com/r-0-x/AQW-Master/blob/master/images/preview_logger.png?raw=true)
 
-![Variable scanner](https://github.com/r-0-x/AQW-Master/blob/master/images/preview_scanner.jpg?raw=true)
+![Variable scanner](https://github.com/r-0-x/AQW-Master/blob/master/images/preview_scanner.png?raw=true)
